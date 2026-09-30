@@ -62,10 +62,10 @@ p {
   background-color: #3d4f21;
 }
 
-.restart {
+.choice-btn.restart {
   background-color: #a0522d;
 }
 
-.restart:hover {
+.choice-btn.restart:hover {
   background-color: #834022;
 }
